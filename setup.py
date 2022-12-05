@@ -13,7 +13,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='python-InstagramBusinessAPI',
-    version='0.1.0',
+    version='0.1.1',
     description='Instagram Business API to POST content to Instagram',
     author='Stan Nieuwmans',
     author_email='snieuwmans@gmail.com',
@@ -22,6 +22,5 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         'requests',
-        'json',
     ]
 )
