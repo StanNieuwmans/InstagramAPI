@@ -3,7 +3,7 @@ Package for the Instagram Business API - Python
 
 
 # InstagramAPI - Python Package
-A small demo library for a Medium publication about publishing libraries.
+This package is a wrapper for the Instagram Business API. It is a simple package that allows you to post images to Instagram.
 
 ### Installation
 ```
